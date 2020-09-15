@@ -11,7 +11,7 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rupamkerketta&show_icons=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rupamkerketta&show_icons=true&theme=dracula&line_height=27&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rupamkerketta&hide=html,java&theme=dracula">
 </p>
 
