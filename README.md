@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there :wave:, I'm Rupam 
 
-<!--
-**rupamkerketta/rupamkerketta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently i'm working on stuff like data visualization and SPA's
+- 🌱 I’m currently learning D3.js
+- 👯 I’m looking to collaborate on web-dev projects involving data visualizations and SPA's.
+- 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb
 
-Here are some ideas to get you started:
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rupamkerketta&show_icons=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rupamkerketta&hide=html,java&theme=dracula">
+</p>
+
+</details>
