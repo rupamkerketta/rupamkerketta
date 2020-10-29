@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web-dev projects involving data visualizations and SPA's.
 - 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb
 
-<details open>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
