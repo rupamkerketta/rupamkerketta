@@ -1,4 +1,4 @@
-### Hi there :wave:, I'm Rupam 
+### Hi there :wave:, I'm Rupam <img src="https://media.giphy.com/media/JsEDe5fTepBIDnaZKT/giphy.gif" width="120"/>
 
 - 🔭 Currently i'm working on stuff like data visualization and SPA's
 - 🌱 I’m currently learning D3.js
