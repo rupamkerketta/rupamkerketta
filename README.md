@@ -1,8 +1,8 @@
 ### Hi there :wave:, I'm Rupam <img src="https://media.giphy.com/media/JsEDe5fTepBIDnaZKT/giphy.gif" width="120"/>
 
-- 🔭 Currently i'm working on stuff like data visualization and SPA's
-- 🌱 I’m currently learning D3.js
-- 👯 I’m looking to collaborate on web-dev projects involving data visualizations and SPA's.
+- 🔭 I'm currently working on CLI applications
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on web-dev projects involving REST API's
 - 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb
 
 <details>
