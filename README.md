@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on web-dev projects involving REST API's
 - 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupamkerketta/)
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
