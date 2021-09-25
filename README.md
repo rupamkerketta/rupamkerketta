@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on CLI applications
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on web-dev projects involving REST API's
-- 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb
+- 💬 Ask me about ReactJS, redux, javascript, nodejs, mongodb, go, vim
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupamkerketta/)
 <details>
